@@ -92,7 +92,7 @@ framework-timeago =
     }
     [day] { $value ->
        [1] Tag
-      *[other] Tage
+      *[other] Tagen
     }
     [week] { $value ->
        [1] Woche
