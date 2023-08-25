@@ -94,6 +94,8 @@ comments-viewNew =
     *[other] {$count} Neue Kommentare anschauen
   }
 comments-loadMore = Mehr laden
+comments-loadAll = Alle Kommentare anzeigen
+comments-loadAll-loading = Laden...
 
 comments-permalinkPopover =
   .description = Eine Dialogbox, welche einen Permalink zum Kommentar anzeigt
