@@ -246,6 +246,11 @@ comments-reacted =
 comments-jumpToComment-title = Deine Antwort wird unten angezeigt
 comments-jumpToComment-GoToReply = Zur Antwort springen
 
+comments-refreshComments-closeButton = Schliessen <icon></icon>
+  .aria-label = Close
+comments-refreshComments-refreshButton = <icon></icon> Kommentare aktualisieren
+  .aria-label = Refresh comments
+
 ### Q&A
 
 general-tabBar-qaTab = Q&A
